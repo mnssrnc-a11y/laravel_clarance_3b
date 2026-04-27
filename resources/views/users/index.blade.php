@@ -34,12 +34,12 @@
                                     </tr>
                                 </thead>
                                 <tbody>
-                                @foreach($users as $user)
+                                
                                     <tr>
-                                        <td>{{ $user->name }}</td>
-                                        <td>{{ $user->email }}</td>
+                                        <td>CLARENCEEE</td>
+                                        <td>3BBBB</td> 
                                     </tr>
-                                @endforeach
+                               
                                 </tbody>
                             </table>
                         </div>
